@@ -1,6 +1,0 @@
-Type,Taste,Health,Calories
-Hamburger,Great,Medium,High
-Pizza,Good,Medium,High
-IceCream,Grat,Bad,Medium
-Cola,Medium,VeryBad,Low/Medium
-Water,Good,VeryGood,Zero
