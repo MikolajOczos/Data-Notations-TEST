@@ -1,0 +1,48 @@
+[
+    {
+        "Monday Meal" : "Fish And Chips",
+        "Tuesday Meal" : "Donner Kebab",
+        "Wednesday Meal" : "Steak with cream sauce",
+        "Friday Meal" : "Fish Soup",
+        "Sunday Meal" : "Porkchop with beef soup"
+    },
+    {
+        "Monday Drink" : "Indian Tea",
+        "Tuesday Drink" :  "Honey with Milk",
+        "Wednesday Drink" : "Coca Cola",
+        "Friday Drink" : "Pepsi",
+        "Sunday Drink" : "Sprite"
+    },
+    {
+        "Amount spent on food on Monday" : 27.57,
+        "Amount spent on food on Tuesday" : 21.75,
+        "Amount spent on food on Wednesday" : 41.56,
+        "Amount spent on food on Friday" : 23.85,
+        "Amount spent on food on Sunday" : 31.56
+    },
+    {
+        "Amount spent on drinks on Monday" : 5.55,
+        "Amount spent on food on Tuesday" : 3.33,
+        "Amount spent on driks on Wednesday" : 3.44,
+        "Amount spent on driks on Friday" : 4.32,
+        "Amount spent on driks on Sunday" : 5
+     },
+    {
+        "Where have I eaten on Monday" : "Bar",
+        "Where have I eaten on Tuesday" : "Food Truck",
+        "Where have I eaten on Wednesday" : "Restaurant",
+        "Where have I eaten on Friday" : "At grandmas",
+        "Where have I eaten on Sunday" : "At my house"
+    },
+    {
+        "Was the foood tasty on Monday?" : true,
+        "Was the foood tasty on Tuesday?" : false,
+        "Was the foood tasty on Wednesday?" : true,
+        "Was the foood tasty on Friday?" : true,
+        "Was the foood tasty on Sunday?" : true
+
+
+
+
+    }
+]
