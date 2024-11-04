@@ -1,0 +1,47 @@
+1. Food
+    1. Burger
+    2. Hot-dog
+    3. Rice
+    4. Pasta
+        1. **Meal**
+        2. _Cheese_
+
+2. Drinks
+    1. Pepsi
+    2. Fanta
+    3. Sprite
+    4. Cola
+        1. __*Juice*__
+        2. **_Mojito_**
+    
+3. Fruits
+    1. Apple
+    2. Pear
+    3. Banana
+    4. Peach
+        1. ~~Mango~~
+        2. *Orange*
+
+4. Vegetables
+    1. Tomato
+    2. Cucumber
+    3. Potato
+    4. Garlic
+        1. <span style="color:yellow">Onion</span>
+        2. <span style="color:blue">lettuce</span>
+
+5. Alcohol
+    1. Rom
+    2. Wisky
+    3. Vine
+    4. Shampane
+        1. ~~Alcohol~~ mojito
+        2. **Gin**
+
+6. Tea
+    1. Green
+    2. Black
+    3. with Lemon
+    4. with cytrus
+        1. <span style="color:yellow">with lemon</span>.
+        2. <span style="color:green">with mint</span>.
